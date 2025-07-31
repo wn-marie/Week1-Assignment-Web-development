@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple, accessible, and SEO-friendly web page for a fluffy pancake recipe. It demonstrates the use of modern HTML5 semantic elements, accessibility best practices, and basic SEO techniques.
+This repo demonstrates a simple, accessible, and SEO-friendly web page by using an example of a fluffy pancake recipe. It demonstrates the use of modern HTML5 semantic elements, accessibility best practices, and basic SEO techniques.
 
 ## Features
 
